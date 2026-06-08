@@ -1,1 +1,2 @@
 [2026-06-08T11:25:30.000Z] chore: bump minor dependency patches and lockfile (#1/4)
+[2026-06-08T13:48:16.000Z] fix: graceful fallback on upstream rate limiting (#2/4)
