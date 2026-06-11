@@ -5,3 +5,4 @@
 [2026-06-09T12:58:47.000Z] feat: implement adaptive caching layer for remote sync (#1/2)
 [2026-06-09T16:57:38.000Z] docs: clarify deployment environment variable requirements (#2/2)
 [2026-06-10T15:01:26.000Z] test: expand integration suite for webhook deliveries (#1/1)
+[2026-06-11T11:56:48.000Z] fix: graceful fallback on upstream rate limiting (#1/3)
