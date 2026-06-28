@@ -43,3 +43,4 @@
 [2026-06-27T15:03:55.000Z] docs: clarify deployment environment variable requirements (#2/3)
 [2026-06-27T17:57:55.000Z] refactor: modularize repository sync orchestrator (#3/3)
 [2026-06-28T12:00:43.000Z] test: expand integration suite for webhook deliveries (#1/3)
+[2026-06-28T15:03:47.000Z] chore: clean up deprecated helper functions (#2/3)
