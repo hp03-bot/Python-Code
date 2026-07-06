@@ -63,3 +63,4 @@
 [2026-07-03T18:33:19.000Z] perf: reduce memory allocation in matrix computation (#4/4)
 [2026-07-04T15:01:11.000Z] chore: bump minor dependency patches and lockfile (#1/1)
 [2026-07-05T14:58:01.000Z] feat: implement adaptive caching layer for remote sync (#1/1)
+[2026-07-06T14:58:20.000Z] fix: resolve timezone offset discrepancy in scheduler (#1/1)
