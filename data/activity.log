@@ -71,3 +71,4 @@
 [2026-07-08T18:33:52.000Z] style: enforce consistent lint formatting across modules (#4/4)
 [2026-07-09T12:59:05.000Z] feat: optimize event bus telemetry and trace logging (#1/2)
 [2026-07-09T17:00:55.000Z] style: enforce consistent lint formatting across modules (#2/2)
+[2026-07-10T11:20:55.000Z] fix: graceful fallback on upstream rate limiting (#1/4)
