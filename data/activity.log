@@ -90,3 +90,4 @@
 [2026-07-15T16:58:05.000Z] chore: bump minor dependency patches and lockfile (#2/2)
 [2026-07-16T12:56:45.000Z] fix: handle null pointer check in payload serializer (#1/2)
 [2026-07-16T16:58:33.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/2)
+[2026-07-17T14:56:25.000Z] docs: add visual sequence diagrams for authentication flow (#1/1)
