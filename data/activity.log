@@ -102,3 +102,4 @@
 [2026-07-22T14:59:46.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/3)
 [2026-07-22T18:03:03.000Z] fix: resolve timezone offset discrepancy in scheduler (#3/3)
 [2026-07-23T13:01:05.000Z] perf: debounce high-frequency state update dispatchers (#1/2)
+[2026-07-23T16:57:39.000Z] refactor: decouple configuration loader from runtime core (#2/2)
