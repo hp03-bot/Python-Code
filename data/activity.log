@@ -134,3 +134,4 @@
 [2026-08-05T15:03:52.000Z] fix: prevent race condition in async buffer queue (#2/3)
 [2026-08-05T17:56:17.000Z] refactor: modularize repository sync orchestrator (#3/3)
 [2026-08-06T15:01:39.000Z] chore: clean up deprecated helper functions (#1/1)
+[2026-08-07T14:58:42.000Z] feat: implement adaptive caching layer for remote sync (#1/1)
