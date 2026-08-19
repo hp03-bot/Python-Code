@@ -157,3 +157,4 @@
 [2026-08-19T11:24:28.000Z] fix: graceful fallback on upstream rate limiting (#1/4)
 [2026-08-19T13:48:54.000Z] docs: clarify deployment environment variable requirements (#2/4)
 [2026-08-19T16:09:42.000Z] style: enforce consistent lint formatting across modules (#3/4)
+[2026-08-19T18:35:59.000Z] docs: clarify deployment environment variable requirements (#4/4)
