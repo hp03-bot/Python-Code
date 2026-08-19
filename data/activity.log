@@ -155,3 +155,4 @@
 [2026-08-18T15:01:48.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/3)
 [2026-08-18T17:59:47.000Z] refactor: modularize repository sync orchestrator (#3/3)
 [2026-08-19T11:24:28.000Z] fix: graceful fallback on upstream rate limiting (#1/4)
+[2026-08-19T13:48:54.000Z] docs: clarify deployment environment variable requirements (#2/4)
