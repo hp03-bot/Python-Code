@@ -158,3 +158,4 @@
 [2026-08-19T13:48:54.000Z] docs: clarify deployment environment variable requirements (#2/4)
 [2026-08-19T16:09:42.000Z] style: enforce consistent lint formatting across modules (#3/4)
 [2026-08-19T18:35:59.000Z] docs: clarify deployment environment variable requirements (#4/4)
+[2026-08-20T12:03:50.000Z] docs: add visual sequence diagrams for authentication flow (#1/3)
