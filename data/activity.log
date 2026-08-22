@@ -164,3 +164,4 @@
 [2026-08-21T12:57:09.000Z] perf: debounce high-frequency state update dispatchers (#1/2)
 [2026-08-21T16:58:12.000Z] test: add unit coverage for edge-case parser states (#2/2)
 [2026-08-22T12:56:16.000Z] docs: clarify deployment environment variable requirements (#1/2)
+[2026-08-22T17:03:25.000Z] feat: add structured JSON log formatter (#2/2)
