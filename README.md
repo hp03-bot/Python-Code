@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hpaids86-bot/Python-Code/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
