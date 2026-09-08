@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 | [0940-distinct-subsequences-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0940-distinct-subsequences-ii) |
 ## Database
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hpaids86-bot/Python-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
