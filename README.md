@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
