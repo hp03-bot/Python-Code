@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
+| [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0940-distinct-subsequences-ii) |
 ## Combinatorics
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hpaids86-bot/Python-Code/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hpaids86-bot/Python-Code/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
