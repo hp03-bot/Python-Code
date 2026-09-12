@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hp03-bot/Python-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hp03-bot/Python-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hp03-bot/Python-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hp03-bot/Python-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hp03-bot/Python-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hp03-bot/Python-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hp03-bot/Python-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Array
