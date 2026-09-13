@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/hp03-bot/Python-Code/tree/master/0178-rank-scores) |
 | [0619-biggest-single-number](https://github.com/hpaids86-bot/Python-Code/tree/master/0619-biggest-single-number) |
 ## Stack
 |  |
