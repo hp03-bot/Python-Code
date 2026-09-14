@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+| [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+| [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hpaids86-bot/Python-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+| [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 ## Counting
 |  |
 | ------- |
