@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
 | [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/hp03-bot/Python-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/hp03-bot/Python-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 <!---LeetCode Topics End-->
