@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/hp03-bot/Python-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Divide and Conquer
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hp03-bot/Python-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
