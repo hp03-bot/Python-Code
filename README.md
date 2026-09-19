@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/hp03-bot/Python-Code/tree/master/0132-palindrome-partitioning-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/hp03-bot/Python-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hpaids86-bot/Python-Code/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/hpaids86-bot/Python-Code/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/hp03-bot/Python-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
