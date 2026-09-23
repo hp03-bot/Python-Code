@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hp03-bot/Python-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/hp03-bot/Python-Code/tree/master/0132-palindrome-partitioning-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hp03-bot/Python-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hp03-bot/Python-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/hp03-bot/Python-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Matrix
 |  |
