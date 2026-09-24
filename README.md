@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hp03-bot/Python-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/hp03-bot/Python-Code/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hpaids86-bot/Python-Code/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/hp03-bot/Python-Code/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hp03-bot/Python-Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
