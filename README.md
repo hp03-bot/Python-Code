@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/hp03-bot/Python-Code/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 | [0119-pascals-triangle-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0119-pascals-triangle-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/hp03-bot/Python-Code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/hp03-bot/Python-Code/tree/master/0131-palindrome-partitioning) |
