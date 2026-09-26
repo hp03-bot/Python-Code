@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hpaids86-bot/Python-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/hpaids86-bot/Python-Code/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/hp03-bot/Python-Code/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hpaids86-bot/Python-Code/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/hp03-bot/Python-Code/tree/master/0190-reverse-bits) |
 ## Design
 |  |
 | ------- |
