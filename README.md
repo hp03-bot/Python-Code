@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/hp03-bot/Python-Code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/hp03-bot/Python-Code/tree/master/0168-excel-sheet-column-title) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hpaids86-bot/Python-Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/hp03-bot/Python-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hpaids86-bot/Python-Code/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/hp03-bot/Python-Code/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/hpaids86-bot/Python-Code/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hp03-bot/Python-Code/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
