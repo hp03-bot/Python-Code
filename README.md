@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/hp03-bot/Python-Code/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/hp03-bot/Python-Code/tree/master/0072-edit-distance) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/hp03-bot/Python-Code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hpaids86-bot/Python-Code/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/hp03-bot/Python-Code/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hpaids86-bot/Python-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hp03-bot/Python-Code/tree/master/0145-binary-tree-postorder-traversal) |
@@ -212,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
