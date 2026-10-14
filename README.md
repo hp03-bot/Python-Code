@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/hp03-bot/Python-Code/tree/master/0168-excel-sheet-column-title) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hpaids86-bot/Python-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/hp03-bot/Python-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/hp03-bot/Python-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/hp03-bot/Python-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hp03-bot/Python-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/hp03-bot/Python-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hp03-bot/Python-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
