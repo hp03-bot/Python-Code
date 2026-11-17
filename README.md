@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/hp03-bot/Python-Code/tree/master/0132-palindrome-partitioning-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hp03-bot/Python-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hp03-bot/Python-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Combinatorics
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/hpaids86-bot/Python-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hp03-bot/Python-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hp03-bot/Python-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hp03-bot/Python-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Database
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/hpaids86-bot/Python-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [2122-recover-the-original-array](https://github.com/hp03-bot/Python-Code/tree/master/2122-recover-the-original-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hp03-bot/Python-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Breadth-First Search
 |  |
 | ------- |
